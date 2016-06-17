@@ -1,0 +1,23 @@
+body header{
+  text-align: center;
+}
+h1 {
+  font-weight: normal;
+}
+h2 {
+  font-weight: normal;
+}
+h3 {
+  font-style: italic;
+  font-weight: bolder;
+}
+body ol {
+  list-style: lower-latin;
+}
+.info {
+  display: inline-block;
+  padding-left: 100px;
+  padding-right: 100px;
+  border: solid;
+  border-width: 1px;
+}
